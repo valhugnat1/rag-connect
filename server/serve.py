@@ -1,4 +1,5 @@
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 from langchain.vectorstores import Pinecone
@@ -66,3 +67,13 @@ async def create_item(item: Item):
     return {"answer": result['answer'], "source_documents": result['source_documents'][0]}
 
 
+# Set up CORS configuration
+origins = ["http://localhost:5173"]  # Replace with your frontend's URL
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],  # Allow all HTTP methods
+    allow_headers=["*"],  # Allow all headers
+)

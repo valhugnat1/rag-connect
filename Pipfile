@@ -12,6 +12,7 @@ pydantic = "*"
 pinecone-client = "*"
 openai = "*"
 tiktoken = "*"
+bs4 = "*"
 
 [dev-packages]
 
