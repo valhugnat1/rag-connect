@@ -1,0 +1,416 @@
+Inbound: True
+Tweet ID: 119237
+105834: @AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened😡😡😡
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119239
+105835: @76328 I really hope you all change but I'm sure you won't! Because you don't have to!
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119238
+ChaseSupport: @105835 Your business means a lot to us. Please DM your name, zip code and additional details about your concern. ^RR https://t.co/znUu1VJn9r
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119250
+105838: @AppleSupport hi #apple, I’ve a concern about the latest ios is too slow on #iphone6 and i am not happy with it. Any solution please?
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119253
+105839: I just updated my phone and suddenly everything takes ages to load wtf @76099 this update sux I hate it fix it bye
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119252
+AppleSupport: @105839 Thanks for reaching out to us. We are always happy to help. Send us a DM so we can look into this together. https://t.co/GDrqU22YpT
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119256
+105840: @76495 @91226 Please help! Spotify Premium skipping through songs constantly on android tablet &amp; bluetooth speaker. Tried everything!
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119254
+SpotifyCares: @105840 Hi there! What device is this happening on? If you could also let us know the Android and Spotify versions you're using, that'd be great /AY
+--------------------------------------------------
+
+Inbound: True
+Tweet ID: 119255
+105840: @SpotifyCares Thanks! Version 8.4.22.857 armv7 on anker bluetooth speaker on Samsung Galaxy Tab A (2016) Model SM-T280 Does distance from speaker matter?
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119257
+SpotifyCares: @105840 Thanks. The distance could possibly affect playback. Does logging out &gt; restarting your device &gt; logging back in make a difference? /AY
+--------------------------------------------------
+
+Inbound: True
+Tweet ID: 119258
+105840: @SpotifyCares No, but I've moved speaker to about 1 metre away and it's not skipping at the mo - it was about 3 or 4 metres away before. Fingers crossed!
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119259
+SpotifyCares: @105840 That's great to hear. If anything comes up, just let us know. We'll carry on helping out 🙂 /AY
+--------------------------------------------------
+
+Inbound: True
+Tweet ID: 119260
+105840: @SpotifyCares Brilliant thanks 😊
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119261
+SpotifyCares: @105840 You're welcome! If there's anything else we can help with, just give us a shout. We're here for you 😉 /CP
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119263
+105841: @AppleSupport after the 11.0.2 my phone just sucks most of the apps are broken, wifi disconnects frequently #apple #ios1102 #painfulupdate
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119262
+AppleSupport: @105841 We'd love to help! Please DM us and let us know any steps you've tried since experiencing these behaviors. https://t.co/GDrqU22YpT
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119265
+105842: First flight for long time with @British_Airways. Now over one 1h delay for the short jump FRA-LCY and NO one here to provide status updates
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119268
+105843: Okay @76099 I used my fucking phone for 2 minutes and it drains it down 8 fucking percent
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119267
+AppleSupport: @105843 Battery life is important, and we're here for you. DM us the iOS version your iPhone is running. We'll go from there. https://t.co/GDrqU22YpT
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119272
+105844: You’ve paralysed my phone with your update @76099 grrrrrrrrrr
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119271
+AppleSupport: @105844 We'd be happy to help. Send us a DM and we can start there. https://t.co/GDrqU22YpT
+--------------------------------------------------
+
+Inbound: True
+Tweet ID: 119270
+105844: @AppleSupport Can you get my iPhone 7plus back on the old iOS please?  Battery runs out in half the time, apps now frequently crash.
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119269
+AppleSupport: @105844 Thanks for reaching out to us. We are always happy to help. Send us a DM so we can look into this together. https://t.co/GDrqU22YpT
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119274
+82476: @O2 I received this a few weeks ago, since then I've been getting 2/3 calls a day from a telemarketer. Is someone using your name? https://t.co/GLtz4XHcex
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119273
+O2: @82476 🤔 We'd like to help Sam, which number is calling you? Please DM us more info so we can advise further. https://t.co/5pyLDJBC6r
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119276
+105845: My internet is down and xfinity talkin about 24-72 hours... y’all have the game messed up. 
+
+@77245
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119275
+comcastcares: @105845 I understand this is a frustrating experience, please send a DM with your account information so I can look into this matter for you. -AD
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119278
+105676: @76803  I service last 40 min sprint can I get a refund https://t.co/wYPw9hP6wt
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119277
+sprintcare: @105676 I understand how you frustrated this situation can be. Please follow us by sending a DM for further assistance. Sprint Cares. -AC
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119280
+105846: So the new @76099 update does not let me listen to music and go on whatsapp at the same time?!?
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119279
+AppleSupport: @105846 We'd like to help. What happens when you try to listen to Apple Music &amp; use WhatsApp? Does the music pause? Let us know in DM. https://t.co/GDrqU22YpT
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119283
+105847: @SpotifyCares i've been having issues with playback. songs have been stopping midway through and won't restart unless i close and reopen app
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119281
+SpotifyCares: @105847 Hi Harry! Help's here. Can you check if logging out &gt; restarting your device &gt; logging back in makes a difference? Keep us posted /MU
+--------------------------------------------------
+
+Inbound: True
+Tweet ID: 119282
+105847: @SpotifyCares seems to be working at this stage. Will let you know if it happens again. Cheers
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119284
+SpotifyCares: @105847 Sure thing. We'll keep an eye out for your update /MU
+--------------------------------------------------
+
+Inbound: True
+Tweet ID: 119285
+105847: @SpotifyCares problem has come back again today. is there some kind of bug?
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119286
+SpotifyCares: @105847 Thanks for giving us a nudge about this. What device, operating system, and Spotify version is this happening on? /AY
+--------------------------------------------------
+
+Inbound: True
+Tweet ID: 119287
+105847: @SpotifyCares It's on a Macbook Air (early 2014), running High Sierra, spotify version 1.0.65.320.gac7a8e02
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119288
+SpotifyCares: @105847 Got it. Can you try the steps here for us: https://t.co/EqisDMwZAT? They should help with this. Let us know how it plays out /AY
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119292
+105848: @AppleSupport #ios11update - is still killing my battery within 12 hours - phone is 10 months old - it’s a disgrace - used to get 2 days
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119289
+AppleSupport: @105848 Let's take a look. What is the exact iOS you're using? Are you using any specific apps when noticing this? DM us your reply. https://t.co/GDrqU22YpT
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119294
+105849: Took my phone off charge at 7:20am.
+
+8:03am - 60% battery remaining.
+
+@76099 plz I beg you, sort your battery life out😩
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119293
+AppleSupport: @105849 Thanks for reaching out to us. We are always happy to help. Send us a DM so we can look into this together. https://t.co/GDrqU22YpT
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119297
+105850: @southwestair Just curious....will I get the companion pass the exact moment I get enough points? It will I have to wait? Thanks!
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119295
+SouthwestAir: @105850 Once the points load and you hit the number, you get it immediately! You'll even receive a congrats email. Are you almost there? ^AC
+--------------------------------------------------
+
+Inbound: True
+Tweet ID: 119296
+105850: @SouthwestAir I am! Thank you for the answer!!
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119299
+105851: @AppleSupport I need a new code for my I-store. I haven’t recd any but msg is too many sent. Help!
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119298
+AppleSupport: @105851 We'd like to provide some assistance with this. Tell us more about the issue you're experiencing in DM. We'll go from there. https://t.co/GDrqU22YpT
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119301
+105852: @76099 @AppleSupport fix this update. It’s horrible
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119300
+AppleSupport: @105852 Are you experiencing an issue with your device? If so, DM us with what's going on. We'll see how we can help from there. https://t.co/GDrqU22YpT
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119306
+105854: @76501 I guess this means free cable for the neighborhood. https://t.co/FBgEE9YXPm
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119315
+105855: Got id's @Tesco for buying one Adnams Broadside. Is being blind part of the job-spec? I am 35 and 99 kilos.
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119319
+105856: Hey @Tesco, your website's broken. It's telling me there are no delivery slots for the next 3 weeks, which I find slightly unlikely.
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119317
+Tesco: @105856 Hi there, could you try deleting your cache and cookies and reinstalling the app if using it? This should fix the issue :) - Dani
+--------------------------------------------------
+
+Inbound: True
+Tweet ID: 119318
+105856: @Tesco Will I lose all the shopping I've done if I delete the cache/cookies (not using app)?
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119320
+Tesco: @105856 Hi there, as long as you sign out of your account prior to deleting your cache &amp; cookies, you'll still have a full basket :) Thanks - Mike
+--------------------------------------------------
+
+Inbound: True
+Tweet ID: 119321
+105856: @Tesco Done all that. Still telling me there are no delivery slots whatsoever.
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119322
+Tesco: @105856 Can you DM me your full name, address and email? I'd be happy to look into this further for you :) Thanks - Mike
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119326
+105857: My apps stop working without warning and my phone freezes every five minutes! Love the new update @76099!!!!
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119325
+AppleSupport: @105857 We'd like to help if we can. When did this start happening? Which version of iOS are you running currently?
+--------------------------------------------------
+
+Inbound: True
+Tweet ID: 119324
+105857: @AppleSupport I have the latest version iOS. It started immediately after I updated my phone.
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119323
+AppleSupport: @105857 Is there a particular app that seems to cause these issues more than others? What model iPhone are you using? Join us in DM. https://t.co/GDrqU22YpT
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119328
+105858: @HPSupport Problem with printhead  Serial# TH536D1HN #hpcswus #hpprnt
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119327
+HPSupport: @105858 Hi Agoura, thanks for tweeting. Please refer to this article: https://t.co/BSsgjZARTc &amp; click the link to reply back. ^Rashmi https://t.co/a2xkfCrUG1
+--------------------------------------------------
+
+
+
+
+Inbound: True
+Tweet ID: 119331
+105860: They reschedule my shit for tomorrow https://t.co/RsvZcT982t
+--------------------------------------------------
+
+Inbound: True
+Tweet ID: 119330
+105859: @105860 I wish Amazon had an option of where I can just get it shipped to the ups store so I can avoid a lot of the struggle
+--------------------------------------------------
+
+Inbound: False
+Tweet ID: 119329
+UPSHelp: @105859 UPS has a service called My Choice that will allow your packages to be delivered to UPS Store. ^ML  https://t.co/BPZKndqww1 https://t.co/wKJHDXWGRQ
+--------------------------------------------------
+
+
+
+

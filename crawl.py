@@ -19,17 +19,22 @@ def get_links(url, base_url):
         return []
 
 # Function to crawl the website recursively
-def crawl_website(url, depth):
+def crawl_website(url, depth, file):
     if depth <= 0:
         return
     print(f"Crawling: {url}")
+    file.write(url + '\n')  # Write the URL to the file
     links = get_links(url, base_url)
     for link in links:
-        crawl_website(link, depth - 1)
+        crawl_website(link, depth - 1, file)
 
 # Specify the starting URL and depth of crawling
 start_url = "https://mlops-platform-documentation.craft.ai/"
 base_url = "https://mlops-platform-documentation.craft.ai/"
 crawl_depth = 2  # You can adjust the depth as needed
 
-crawl_website(start_url, crawl_depth)
+file_name = start_url.replace(".", "_").replace("https://", "").replace("/", "")  + ".txt"
+with open(file_name, 'w') as output_file:
+    crawl_website(start_url, crawl_depth, output_file)
+
+print(f"URLs crawled and saved in {file_name}")
