@@ -2,10 +2,22 @@ from fastapi import FastAPI
 from fastapi.responses import StreamingResponse
 import time
 
+from pydantic import BaseModel
+
 import uvicorn
 app = FastAPI()
 
 from llama_index.llms.openai_like import OpenAILike
+import os.path
+from llama_index.core import (
+    VectorStoreIndex,
+    SimpleDirectoryReader,
+    StorageContext,
+    load_index_from_storage,
+)
+
+
+PERSIST_DIR = "./storage"
 llm = OpenAILike(api_base="http://f916afca-1d75-4ee5-992c-9f94e9ab1b57.pub.instances.scw.cloud:8000/v1", 
                  model="TheBloke/Mistral-7B-Instruct-v0.2-AWQ", 
                  max_tokens= 400,
@@ -13,10 +25,19 @@ llm = OpenAILike(api_base="http://f916afca-1d75-4ee5-992c-9f94e9ab1b57.pub.insta
                  api_key="hugo-secret-token"
                 )
 
-def vllm_streamer():
+storage_context = StorageContext.from_defaults(persist_dir=PERSIST_DIR)
+index = load_index_from_storage(storage_context)
 
-    stream_response = llm.stream_complete("what is a black hole")
-    print (stream_response)
+# Either way we can now query the index
+query_engine = index.as_query_engine()
+
+query_engine_vllm = index.as_query_engine(llm=llm)
+
+def vllm_streamer(question):
+
+    # stream_response = llm.stream_complete("what is a black hole")
+
+    stream_response = query_engine_vllm.query("What is the author name?").response_gen
 
     for line in stream_response:
         yield f"{line}"
@@ -32,8 +53,16 @@ def fake_streamer():
         time.sleep(1)
 
 
+class Question(BaseModel):
+    question: str
 
-@app.get("/")
-async def main():
-    return StreamingResponse(vllm_streamer(), headers={ "Content-Type": "text/event-stream" })
+class Question(BaseModel):
+    question: str
+
+
+
+@app.post("/")
+async def main(question_body: Question):
+    question = question_body.question
+    return StreamingResponse(vllm_streamer(question), headers={ "Content-Type": "text/event-stream" })
 
